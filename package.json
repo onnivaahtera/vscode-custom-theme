@@ -1,21 +1,21 @@
 {
-  "name": "burger",
-  "displayName": "Burger",
-  "description": "AAAAAAA",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Burger",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Burger-color-theme.json"
-      }
-    ]
-  }
+    "name": "blue-theme",
+    "displayName": "Blue-Theme",
+    "description": "AAAAAAA",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blue-Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blue-Theme-color-theme.json"
+            }
+        ]
+    }
 }
